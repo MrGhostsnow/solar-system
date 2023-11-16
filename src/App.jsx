@@ -1,9 +1,16 @@
 import MainContainer from "./MainContainer";
 import { Canvas } from "@react-three/fiber";
+import { OrbitControls } from "@react-three/drei";
+import { Perf } from "r3f-perf";
 
 function App() {
   return (
-    <Canvas>
+    <Canvas
+      shadows
+      camera={{ fov: 75, near: 0.1, far: 1000, position: [16, 8.5, 19.5] }}
+    >
+      {/* <Perf /> */}
+      <OrbitControls />
       <MainContainer />;
     </Canvas>
   );
