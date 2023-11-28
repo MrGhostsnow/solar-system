@@ -4,7 +4,7 @@
 O objetivo deste projeto foi desenvolver um aplicativo web 3d que simule parte do sistema solar.
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O aplicativo deve demonstrar os movimentos de translação e rotação dos componentes presentes em cena (Sol, Terra, Lua e Estação Espacial Internacional).
+* <b>Funcionalidade</b>: O aplicativo deve demonstrar os movimentos de translação e rotação dos componentes presentes em cena (Sol, Terra, Lua e Estação Espacial Internacional).
 
 ## :wrench: Tecnologias utilizadas
 * JavaScript
