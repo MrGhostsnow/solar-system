@@ -1,8 +1,19 @@
-# React + Vite
+<h1 align="center">:file_cabinet: Solar System 3D</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## :memo: Descrição
+O objetivo deste projeto foi desenvolver um aplicativo web 3d que simule parte do sistema solar.
 
-Currently, two official plugins are available:
+## :books: Funcionalidades
+* <b>Funcionalidade 1</b>: O aplicativo deve demonstrar os movimentos de translação e rotação dos componentes presentes em cena (Sol, Terra, Lua e Estação Espacial Internacional).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :wrench: Tecnologias utilizadas
+* JavaScript
+* HTML
+* Three.js
+
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+npm install
+```
+
